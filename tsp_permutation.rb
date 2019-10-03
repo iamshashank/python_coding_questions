@@ -56,3 +56,5 @@ a = [
 ]
 
 puts TSP.init_data_set(a)
+#output
+#{:path=>[0, 6, 1, 7, 2, 5, 8, 3, 9, 4, 0], :weight=>64}
